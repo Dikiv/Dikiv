@@ -25,6 +25,26 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+🌆 Daytime                251 commits         ██████████████░░░░░░░░░░░   55.90 % 
+🌃 Evening                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 
 </div>
