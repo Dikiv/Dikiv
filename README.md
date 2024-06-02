@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 </p>
 <br />
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Me&quote=My+quote)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
