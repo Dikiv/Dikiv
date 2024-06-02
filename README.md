@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Me&quote=My+quote" width="400" height ="175">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Me&quote=My+quote" width="400" height ="165">
 </p>
 <br />
 
