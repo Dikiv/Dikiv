@@ -23,25 +23,13 @@ Here are some ideas to get you started:
 <br />
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 6.5 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-🌆 Daytime                251 commits         ██████████████░░░░░░░░░░░   56.15 % 
-🌃 Evening                113 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+🌆 Daytime                251 commits         ██████████████░░░░░░░░░░░   56.03 % 
+🌃 Evening                114 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
@@ -51,9 +39,6 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -74,7 +59,7 @@ F#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dikiv/Dikiv/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:49:22 UTC
+ Last Updated on 02/06/2024 18:54:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
