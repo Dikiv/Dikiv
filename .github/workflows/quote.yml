@@ -21,7 +21,7 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          
+          .\mkdown-env\Scripts\activate
 
       - name: execute py script # run main.py
         run: python Quoter.py

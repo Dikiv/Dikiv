@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Dr.+Dre&quote=Fuck+Napster" width="400" height ="167">
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Isaac+Newton&quote=If+I+have+seen+further+it+is+by+standing+on+the+shoulders+of+Giants.)
-
 </p>
 <br />
 
