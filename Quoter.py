@@ -7,7 +7,6 @@ import json
 from django.utils.html import format_html
 
 from random import randrange
-import markdown
 
 
 # Define the paths to the .md and JSON files
