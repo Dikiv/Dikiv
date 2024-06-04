@@ -26,7 +26,7 @@ jobs:
       - name: execute py script 
         run: python Quoter.py
 
-        - name: Check if there are any changes
+      - name: Check if there are any changes
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
