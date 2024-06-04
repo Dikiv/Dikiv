@@ -26,21 +26,14 @@ jobs:
       - name: execute py script 
         run: python Quoter.py
 
-      - name: Check if there are any changes
-        id: verify_diff
+      - name: commit files
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
 
-      - name: Commit
-        if: steps.verify_diff.outputs.changed == 'true'
-        run: |
-          git config --global user.name 'dikiv'
-          git config --global user.email 'dikiv@users.noreply.github.com'
-          git commit -am "New Quote!"
-          git add .
-
-      - name: Push
-        if: steps.verify_diff.outputs.changed == 'true'
-        uses: ad-m/github-push-action@master
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          branch: ${{ github.ref }}
+          branch: main
