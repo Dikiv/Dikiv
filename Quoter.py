@@ -1,28 +1,35 @@
 # file: update_readme.py
+from fileinput import filename
+import pathlib
+import os
 import json
-import random
+from random import randrange
+import markdown
+
 
 # Define the paths to the .md and JSON files
 md_file_path = "./README.md"
-json_file_path = "assets/quotes.json"
+json_file_path = "./assets/quotes.json"
 
-# Read the content of the .md file
-with open(md_file_path, 'r') as md_file:
-    md_content = md_file.read()
 
-# Load quotes from the JSON file
-with open(json_file_path, 'r') as json_file:
-    quotes = json.load(json_file)
+with open(json_file_path, 'r') as f:
+    data = json.load(f)
+    val =  data['quotes_by_people'][randrange(0,len(data['quotes_by_people']))]
+    val1 = json.dumps(val)
+    val2 = json.loads(val1)
+    tmpauthor = val2["author"].replace(" ", "+")
+    tmpquote = val2["quote"].replace(" ", "+")
+    newQuote = '![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author={0}&quote={1})'.format(tmpauthor, tmpquote)
 
-# Select a random quote
-selected_quote = random.choice(quotes)
-author = selected_quote['author']
-quote = selected_quote['quote']
-
-# Replace placeholders with dynamic values
-md_content = md_content.replace("{{author}}", author).replace("{{quote}}", quote)
-
-# Write the updated content back to the .md file
-with open(md_file_path, 'w') as md_file:
-    md_file.write(md_content)
-
+with open(md_file_path, mode='r',encoding="utf8") as fi:
+    txt = fi.readlines()
+    count = 0
+    #html = markdown.markdown(txt)
+    
+    
+with open(md_file_path, mode='w',encoding="utf8") as new_file:
+    for i in range(len(txt)):
+        if txt[i].startswith("![Github Readme Daily Quotes]"):
+            txt[i]=newQuote+"\n"         
+    new_file.writelines(txt)
+    

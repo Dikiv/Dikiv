@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Dr.+Dre&quote=Fuck+Napster" width="400" height ="167">
+<img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Dr.+Dre&quote=Fuck+Napster" width="400" height ="167">
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Isaac+Newton&quote=If+I+have+seen+further+it+is+by+standing+on+the+shoulders+of+Giants.)
+
 </p>
 <br />
 
