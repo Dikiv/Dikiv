@@ -35,4 +35,5 @@ with open(md_file_path, mode='w',encoding="utf8") as new_file:
             txt[i]= format_html('<img src="{newQuote}" width="400" height ="167">\n',newQuote=newQuote).replace(r'amp;', '')
             #print(chart)
     new_file.writelines(txt)
+    new_file.close()
     
