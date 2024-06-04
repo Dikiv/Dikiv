@@ -25,3 +25,10 @@ jobs:
 
       - name: execute py script # run main.py
         run: python Quoter.py
+
+      - name: Commit quote
+        run: |
+          git config --global user.name 'dikiv'
+          git config --global user.email 'dikiv@users.noreply.github.com'
+          git commit -am "Automated report"
+          git push
