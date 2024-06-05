@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Albert+Einstein&quote=Life+is+like+riding+a+bicycle.+To+keep+your+balance+you+must+keep+moving." width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Britney+Spears&quote=I&#x27;ve+never+really+wanted+to+go+to+Japan.+Simply+because+I+don’t+like+eating+fish.+And+I+know+that&#x27;s+very+popular+out+there+in+Africa." width="400" height ="167">
 
 </p>
 <br />
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-🌆 Daytime                251 commits         ██████████████░░░░░░░░░░░   54.09 % 
-🌃 Evening                130 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime                252 commits         ██████████████░░░░░░░░░░░   54.19 % 
+🌃 Evening                130 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 
 
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        ███████████████░░░░░░░░░░   60.67 % 
-YAML                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
+Java                     2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
