@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JSON                     1 hr 18 mins        █████████████████████████   100.00 % 
+JSON                     1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
