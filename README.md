@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     41 mins             ████████████████████████░   95.49 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 
