@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 20 mins        █████████████████████████   99.98 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
