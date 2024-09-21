@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Dr.+Dre&quote=Fuck+Napster" width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Mitt+Romney&quote=I+believe+in+an+America+where+millions+of+Americans+believe+in+an+America+that&#x27;s+the+America+millions+of+Americans+believe+in.+That&#x27;s+the+America+I+love." width="400" height ="167">
 
 </p>
 <br />
