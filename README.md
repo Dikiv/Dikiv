@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Albert+Einstein&quote=Life+is+like+riding+a+bicycle.+To+keep+your+balance+you+must+keep+moving." width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Elon+Musk&quote=I+think+there+should+be+regulations+on+social+media+to+the+degree+that+it+negatively+affects+the+public+good" width="400" height ="167">
 
 </p>
 <br />
