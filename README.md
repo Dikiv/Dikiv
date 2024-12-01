@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Reggie+Fils-Aimé&quote=My+body+is+ready" width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Jaden+Smith&quote=Most+Trees+Are+Blue" width="400" height ="167">
 
 </p>
 <br />
