@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               1 hr 38 mins        █████████████████████████   100.00 % 
+TypeScript               2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
