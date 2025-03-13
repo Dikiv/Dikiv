@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-C#                       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
