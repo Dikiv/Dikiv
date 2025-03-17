@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Jason+Kidd&quote=We&#x27;re+going+to+turn+this+team+around+360+degrees" width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Dan+Quayle&quote=It&#x27;s+time+for+the+human+race+to+enter+the+solar+system!" width="400" height ="167">
 
 </p>
 <br />
