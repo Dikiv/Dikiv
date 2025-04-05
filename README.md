@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=George+Gobel&quote=If+it+weren&#x27;t+for+electricity,+we&#x27;d+all+be+watching+television+by+candlelight" width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Mariah+Carey&quote=When+I+watch+TV+and+see+those+poor+starving+kids+all+over+the+world,+I+can&#x27;t+help+but+cry.+I+mean,+I&#x27;d+love+to+be+skinny+like+that,+but+not+with+all+those+flies+and+death+and+stuff." width="400" height ="167">
 
 </p>
 <br />
