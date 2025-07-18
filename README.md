@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dikiv&count_private=true&show_icons=true&theme=prussian" width="400">
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Robert+Downey,+Jr.&quote=Im+thinking+of+buying+a+monkey.+Then+I+think,+Why+stop+at+one?+I+don&#x27;t+like+being+limited+in+that+way.+Therefore,+I&#x27;m+considering+a+platton+of+monkeys,+so+that+people+will+look+at+me+and+see+how+mellow+and+well-adjusted+I+am+compared+to+these+monkeys+throwing+feces+around." width="400" height ="167">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&author=Reggie+Fils-Aimé&quote=My+body+is+ready" width="400" height ="167">
 
 </p>
 <br />
