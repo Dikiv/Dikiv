@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 
